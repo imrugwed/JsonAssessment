@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "name": "James",
+      "age": "27",
+      "salary": 17000
+    },
+    {
+      "name": "Robert",
+      "age": "27",
+      "salary": 25000
+    },
+    {
+      "name": "Emma",
+      "age": "27",
+      "salary": 45000
+    },
+    {
+      "name": "Mohammed",
+      "age": "27",
+      "salary": 33000
+    },
+    {
+      "name": "Kumar",
+      "age": "27",
+      "salary": 14000
+    },
+    {
+      "name": "Ganesh",
+      "age": "27",
+      "salary": 35000
+    },
+    {
+      "name": "Krish",
+      "age": "27",
+      "salary": 15000
+    }
+  ]
+}
